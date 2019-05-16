@@ -28,5 +28,5 @@ encode()：Unicode编码字符  --------->    其他编码字符
 
 # Python2和3区别
 
-Python2中默认的字符编码是ASCII，Python则是Unicode
+Python2中默认的字符编码是ASCII，Python3则是Unicode
 
