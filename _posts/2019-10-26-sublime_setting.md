@@ -1,7 +1,7 @@
 ---
 title: Sublime Text编辑环境
 layout: post
-categories: Sublime Text
+categories: SublimeText
 description: <center>在Sublime Text中配置Python和Java编辑环境</center>
 ---
 
