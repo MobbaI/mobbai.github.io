@@ -2,6 +2,7 @@
 title: Sublime Text编辑环境
 layout: post
 categories: SublimeText
+comments:false
 description: <center>在Sublime Text中配置Python和Java编辑环境</center>
 ---
 

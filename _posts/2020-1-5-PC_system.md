@@ -2,6 +2,7 @@
 title: 系统装机小记
 layout: post
 categories: PC
+comments:false
 description: <center>不断更新中...</center>
 ---
 
