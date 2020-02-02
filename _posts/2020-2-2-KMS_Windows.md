@@ -5,13 +5,13 @@ categories: PC
 description: <center>不断更新中...</center>
 ---
 
-# KMS激活
+## KMS激活
 
 **Windows**
 
 以管理员身份打开命令提示符，然后执行下列命令：
 
-```cmd
+```
 ::cd /d "%SystemRoot%\system32"
 slmgr /skms kms.moeclub.org
 slmgr /ato

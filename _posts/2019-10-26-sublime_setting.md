@@ -5,7 +5,7 @@ categories: SublimeText
 description: <center>在Sublime Text中配置Python和Java编辑环境</center>
 ---
 
-# 配置Python编辑环境
+## 配置Python编辑环境
 
 在**%Sublime Text**安装目录**%/package/**中创建**Python**文件夹，里面新建**Python.sublime-commands**文件后打开，里面添加：
 
@@ -23,9 +23,7 @@ description: <center>在Sublime Text中配置Python和Java编辑环境</center>
 }
 ```
 
-
-
-# 配置Java编辑环境
+## 配置Java编辑环境
 
 在**%Sublime Text**安装目录**%/package/**中创建**Java**文件夹，里面新建**Java.sublime-build**文件后打开，里面添加：
 
