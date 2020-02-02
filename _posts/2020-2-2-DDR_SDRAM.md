@@ -2,6 +2,7 @@
 title: 内存条各代的区别
 layout: post
 categories: PC
+description: <center>Double Data Rate SDRAM，是一种双倍速率同步动态随机存储器</center>
 ---
 
 DDR内存：**Double Data Rate SDRAM**，是一种双倍速率同步动态随机存储器
