@@ -1,7 +1,7 @@
 ---
 title: 系统装机小记
 layout: post
-categories: Others
+categories: PC
 description: <center>不断更新中...</center>
 ---
 
