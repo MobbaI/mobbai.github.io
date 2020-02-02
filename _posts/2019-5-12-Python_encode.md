@@ -2,7 +2,6 @@
 title: Python字符编码
 layout: post
 categories: Python
-comments:false
 description: <center>乱码本质上是系统编码与所提供字符的编码不一致导致的</center>
 ---
 ## 什么是字符编码

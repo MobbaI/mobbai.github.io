@@ -2,8 +2,7 @@
 title: Windows-KMS激活
 layout: post
 categories: PC
-comments:false
-description: <center>不断更新中...</center>
+description: <center>Windows使用KMS对其进行激活</center>
 ---
 
 ## KMS激活
