@@ -5,7 +5,7 @@ categories: PC
 description: <center>不断更新中...</center>
 ---
 
-## PC系统
+## <font color="lightseagreen">PC系统</font>
 
 ### 正版iso和ghost
 
@@ -23,7 +23,7 @@ ghost相对于正版iso安装速度快且省力，但在安全性和稳定性上
 
 **虚拟机：**在系统里面装虚拟系统，可以进行日常上网等应用，CPU内存占用比较高，玩大型游戏等会很卡，其他一般不会出问题。
 
-## KMS激活
+## <font color="lightseagreen">KMS激活</font>
 
 **Windows**
 
