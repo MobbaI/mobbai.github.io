@@ -1,7 +1,7 @@
 ---
 title: Python杂记
 layout: post
-categories: Pyhton
+categories: Python
 description: <center>不断更新中...</center>
 ---
 
