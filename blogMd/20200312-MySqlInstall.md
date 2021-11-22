@@ -2,7 +2,7 @@
 
 下载压缩包后给个位置解压
 
-在**MySQL**根目录下新建**my.ini**配置文件，内容如下：
+在 **MySQL** 根目录下新建 **my.ini** 配置文件，内容如下：
 
 ```
 [mysql]
@@ -27,7 +27,7 @@ default-storage-engine=INNODB
 
 设置环境变量
 
-打开**cmd**，输入：
+打开 **cmd** ，输入：
 
 ```
 mysqld --initialize --consile
@@ -41,7 +41,7 @@ mysqld --initialize --consile
 mysqld --install
 ```
 
-启动**MySQL**服务：
+启动 **MySQL** 服务：
 
 ```
 net start mysql
@@ -58,9 +58,9 @@ ALTER USER `root`@`localhost` IDENTIFIED WITH mysql_native_password BY `root`;
 
 下载慢，寻找国内镜像
 
-启动**MySQL**服务发生系统错误2，系统找不到指定的文件
+启动 **MySQL** 服务发生系统错误2，系统找不到指定的文件
 
-以管理员的身份运行**cmd**，进入**bin**目录，输入以下内容：
+以管理员的身份运行 **cmd** ，进入 **bin** 目录，输入以下内容：
 
 ```
 mysqld --remove

@@ -6,20 +6,20 @@
 
 ## 编码类型
 
-**ASCII：**英文字符
+**ASCII：** 英文字符
 
-**GB2312：**中文字符
+**GB2312：** 中文字符
 
-**Unicode：**各国字符
+**Unicode：** 各国字符
 
-**UTF-8：**提高Unicode存储和传输性能，是Unicode的一种实现形式
+**UTF-8：** 提高Unicode存储和传输性能，是Unicode的一种实现形式
 
 ## 转换编码
 
-**decode()：**其他编码字符         --------->    Unicode编码字符
+**decode()：** 其他编码字符         --------->    Unicode编码字符
 
-**encode()：**Unicode编码字符  --------->    其他编码字符
+**encode()：** Unicode编码字符  --------->    其他编码字符
 
 ## Python2和3区别
 
-**Python2**中默认的字符编码是**ASCII**，**Python3**则是**Unicode**
+**Python2** 中默认的字符编码是 **ASCII** ， **Python3** 则是 **Unicode** 

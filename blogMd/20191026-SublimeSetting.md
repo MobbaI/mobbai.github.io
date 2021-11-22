@@ -1,6 +1,6 @@
 ## 配置Python编辑环境
 
-在**%Sublime Text**安装目录**%/package/**中创建**Python**文件夹，里面新建**Python.sublime-commands**文件后打开，里面添加：
+在 **%Sublime Text** 安装目录 **%/package/** 中创建 **Python** 文件夹，里面新建 **Python.sublime-commands** 文件后打开，里面添加：
 
 ```
 {
@@ -18,7 +18,7 @@
 
 ## 配置Java编辑环境
 
-在**%Sublime Text**安装目录**%/package/**中创建**Java**文件夹，里面新建**Java.sublime-build**文件后打开，里面添加：
+在 **%Sublime Text** 安装目录 **%/package/** 中创建 **Java** 文件夹，里面新建 **Java.sublime-build** 文件后打开，里面添加：
 
 ```
 {
@@ -33,7 +33,7 @@
 }
 ```
 
-在**Java**的**JDK/bin**路径下，新建一个文件，命名为**runJava.bat**，里面内容为：
+在 **Java** 的 **JDK/bin** 路径下，新建一个文件，命名为 **runJava.bat** ，里面内容为：
 
 ```
 @ECHO OFF
