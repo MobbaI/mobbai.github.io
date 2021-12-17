@@ -6,13 +6,13 @@ const blogs = [
         categories: "PC",
         abstract: "在linux微机上配置共享文件夹"
     },
-    {
-        id: "test",
-        data: "20181126",
-        title: "测试",
-        categories: "Other",
-        abstract: "啦啦啦啦啦开始啦~"
-    },
+    // {
+    //     id: "test",
+    //     data: "20181126",
+    //     title: "测试",
+    //     categories: "Other",
+    //     abstract: "啦啦啦啦啦开始啦~"
+    // },
     {
         id: "PCDIY",
         data: "20181127",
