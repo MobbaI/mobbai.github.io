@@ -1,5 +1,12 @@
 const blogs = [
     {
+        id: "UbuntuFTP",
+        data: "20211218",
+        title: "Ubuntu FTP共享文件夹配置",
+        categories: "PC",
+        abstract: "在linux微机上配置共享文件夹"
+    },
+    {
         id: "test",
         data: "20181126",
         title: "测试",
