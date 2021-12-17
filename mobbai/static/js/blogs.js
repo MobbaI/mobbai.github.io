@@ -20,13 +20,13 @@ const blogs = [
         categories: "PC",
         abstract: "攒机后的体会供参考"
     },
-    // {
-    //     id: "Git",
-    //     data: "20190327",
-    //     title: "Git的简单使用",
-    //     categories: "Git",
-    //     abstract: "Git入门级摘要"
-    // },
+    {
+        id: "Git",
+        data: "20190327",
+        title: "Git的简单使用",
+        categories: "Git",
+        abstract: "Git入门级摘要"
+    },
     {
         id: "PythonEncode",
         data: "20190512",
