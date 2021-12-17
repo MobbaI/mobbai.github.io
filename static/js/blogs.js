@@ -2,9 +2,9 @@ const blogs = [
     {
         id: "UbuntuFTP",
         data: "20211218",
-        title: "Ubuntu FTP共享文件夹配置",
+        title: "Ubuntu FTP共享文件",
         categories: "PC",
-        abstract: "在linux微机上配置共享文件夹"
+        abstract: "局域网环境下，在Linux微机上配置ftp共享文件夹"
     },
     // {
     //     id: "test",
