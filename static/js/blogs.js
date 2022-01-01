@@ -1,5 +1,12 @@
 const blogs = [
     {
+        id: "Pyinstaller",
+        data: "20211231",
+        title: "Pyinstaller打包",
+        categories: "Python",
+        abstract: "Python脚本通过pyinstaller打包，使其不依赖python环境"
+    },
+    {
         id: "UbuntuFTP",
         data: "20211218",
         title: "Ubuntu FTP共享文件",
