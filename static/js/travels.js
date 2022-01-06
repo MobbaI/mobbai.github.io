@@ -42,7 +42,7 @@ window.travels = [
         value: 0
     },
     {
-        date: '20140926',
+        date: '20140909',
         place: '重庆',
         days: [],
         value: 1
