@@ -1,5 +1,12 @@
 const blogs = [
     {
+        id: "FirstUnittest",
+        data: "20220119",
+        title: "初识unittest",
+        categories: "Python",
+        abstract: "初步学习unittest，知识点梳理"
+    },
+    {
         id: "Pyinstaller",
         data: "20211231",
         title: "Pyinstaller打包",
