@@ -9,7 +9,7 @@ class TestCaseName(unittest.TestCase):
     # 须使用@classmethod装饰器
     @classmethod
     def setUpClass(cls):
-    print('仅case开始时执行一次')
+        print('仅case开始时执行一次')
 	
     @classmethod
     def tearDownClass(cls):
