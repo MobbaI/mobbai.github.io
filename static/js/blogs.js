@@ -1,5 +1,12 @@
 const blogs = [
     {
+        id: "Decorator",
+        data: "20220124",
+        title: "Decorator",
+        categories: "Python",
+        abstract: "Python中的装饰器"
+    },
+    {
         id: "FirstUnittest",
         data: "20220119",
         title: "初识unittest",
