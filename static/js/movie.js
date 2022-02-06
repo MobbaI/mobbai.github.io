@@ -1,5 +1,23 @@
 const movie = [
     {
+        _id: "51",
+        filmOrTV: "电视剧",
+        country: "美国",
+        category: "悬疑",
+        name: "疑犯追踪",
+        premiere: "20110922",
+        imageUrl: "https://gitee.com/mobbai/image/raw/master/movie/tv/疑犯追踪.jpg"
+    },
+    {
+        _id: "50",
+        filmOrTV: "电视剧",
+        country: "中国",
+        category: "其他",
+        name: "想见你",
+        premiere: "20191117",
+        imageUrl: "https://gitee.com/mobbai/image/raw/master/movie/tv/想见你.jpg"
+    },
+    {
         _id: "49",
         filmOrTV: "电影",
         country: "日本",
