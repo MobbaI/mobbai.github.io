@@ -1,4 +1,11 @@
-const blogs = [
+window.blogs = [
+    {
+        id: "AppiumBasic",
+        data: "20220209",
+        title: "Appium配置和基本操作",
+        categories: "Python",
+        abstract: "App自动化测试工具Appium，基于Python的配置和基本操作"
+    },
     {
         id: "Decorator",
         data: "20220124",
@@ -99,6 +106,6 @@ const blogs = [
     }
 ]
 
-export default {
-    blogs
-}
+// export default {
+//     blogs
+// }
