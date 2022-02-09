@@ -49,7 +49,7 @@ find_element(by=Appium.ID, value=id_)
 
 """
 以下常用方法，皆依靠上述实现
-ID/XPATH/NAME/CLASS_NAME/ANDROUD_UIAUTOMATOR
+ID/XPATH/NAME/CLASS_NAME/ANDROID_UIAUTOMATOR
 """
 
 find_element_by_id()
@@ -60,10 +60,10 @@ find_element_by_class_name()
 find_element_by_android_uiautomator()
 ```
 
-### ANDROUD_UIAUTOMATOR
+### ANDROID_UIAUTOMATOR
 
 ```python
-find_element(by=Appium.ANDROUD_UIAUTOMATOR, value=uia_string)
+find_element(by=Appium.ANDROID_UIAUTOMATOR, value=uia_string)
 ```
 
 uia_string常用示例如下
