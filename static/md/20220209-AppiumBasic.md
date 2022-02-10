@@ -6,27 +6,23 @@
 
 ### Java
 
-**环境变量**
-
-JAVA_HOME，%JAVA_HOME%\bin
+环境变量：JAVA_HOME，%JAVA_HOME%\bin
 
 > 建议使用JDK1.8
 
 ### Android SDK
 
-**环境变量**
+环境变量：ANDROID_HOME，%ANDROID_HOME%\tools
 
-ANDROID_HOME，%ANDROID_HOME%\tools
-
-**adb**
-
-android-sdk-windows/platform-tools/adb.exe
-
-**uiautomatorviewer**
-
-元素定位工具
-
-android-sdk-windows/tools/uiautomatorviewer.bat
+> **adb**
+>
+> android-sdk-windows/platform-tools/adb.exe
+>
+> **uiautomatorviewer**
+>
+> 元素定位工具
+>
+> android-sdk-windows/tools/uiautomatorviewer.bat
 
 ### 环境检测
 
