@@ -4,6 +4,10 @@
 
 下载安装Appium Desktop
 
+> 元素定位工具
+>
+> Appium Inspector
+
 ### Java
 
 环境变量：JAVA_HOME，%JAVA_HOME%\bin
