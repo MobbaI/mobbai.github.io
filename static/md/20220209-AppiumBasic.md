@@ -4,9 +4,9 @@
 
 下载安装Appium Desktop
 
-> 元素定位工具
+> **Appium Inspector**
 >
-> Appium Inspector
+> 元素定位工具
 
 ### Java
 
