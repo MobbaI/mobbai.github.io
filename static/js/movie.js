@@ -1,4 +1,4 @@
-const movie = [
+window.movie = [
     {
         _id: "51",
         filmOrTV: "电视剧",
@@ -460,6 +460,6 @@ const movie = [
     }
 ]
 
-export default {
-    movie
-}
+// export default {
+//     movie
+// }
