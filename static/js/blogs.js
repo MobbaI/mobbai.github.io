@@ -2,7 +2,7 @@ window.blogs = [
     {
         id: "VueStaticJs",
         data: "20220107",
-        title: "Vue引用js文件而不被编译",
+        title: "Vue引入js文件而不被编译",
         categories: "Vue",
         abstract: "数据js文件可实时修改生效，无需再次编译"
     },
