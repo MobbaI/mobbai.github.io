@@ -21,6 +21,6 @@ winodw.dataName = []
 vue项目中，main.js里直接使用
 
 ```js
-Vue.prototype.$anyName = window.dataName
+Vue.prototype.$dataName = window.dataName
 ```
 
