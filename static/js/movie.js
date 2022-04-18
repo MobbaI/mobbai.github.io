@@ -285,7 +285,7 @@ window.movie = [
         category: "其他",
         name: "新世界",
         premiere: "20130221",
-        imageUrl: "https://gitee.com/mobbai/image/raw/master/movie/dianying/新世界.jpg"
+        imageUrl: "https://raw.githubusercontent.com/MobbaI/Image/main/movie/dianying/新世界.jpg"
     },
     {
         _id: "09",
