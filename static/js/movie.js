@@ -15,7 +15,7 @@ window.movie = [
         category: "其他",
         name: "想见你",
         premiere: "20191117",
-        imageUrl: "https://gitee.com/mobbai/image/raw/master/movie/tv/想见你.jpg"
+        imageUrl: "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576977981.webp"
     },
     {
         _id: "49",
