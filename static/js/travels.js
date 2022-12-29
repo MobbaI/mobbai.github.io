@@ -11,6 +11,13 @@ window.travels = [
         value: 0
     },
     {
+        date: '20220826',
+        title: '相见',
+        cities: ['宁波'],
+        days: [],
+        value: 0
+    },
+    {
         date: '20210922',
         title: '鲁迅先生',
         cities: ['绍兴'],
