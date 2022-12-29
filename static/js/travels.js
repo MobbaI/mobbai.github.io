@@ -15,7 +15,7 @@ window.travels = [
         title: '相见',
         cities: ['宁波'],
         days: [],
-        value: 0
+        value: 1
     },
     {
         date: '20210922',
