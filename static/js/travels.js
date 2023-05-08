@@ -1,7 +1,7 @@
 window.travels = [
     {
-        date: '20230430',
-        title: '广西七天乐',
+        date: '20230429',
+        title: '五一九天乐',
         cities: ['南宁', '北海', '桂林'],
         days: [
             ['杭州南站'],
