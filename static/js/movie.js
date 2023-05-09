@@ -33,7 +33,7 @@ window.movie = [
         category: "其他",
         name: "热血高校",
         premiere: "20071027",
-        imageUrl: "https://gitee.com/mobbai/image/raw/master/movie/dianying/热血高校.jpg"
+        imageUrl: "static/img/rexuegaoxiao.webp"
     },
     {
         _id: "47",
