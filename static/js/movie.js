@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "59",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        category: "其他",
+        name: "那年，我们的夏天",
+        premiere: "20211206",
+        imageUrl: "static/img/see/tv/nanianwomendexiatian.webp"
+    },
+    {
         _id: "58",
         filmOrTV: "电视剧",
         country: "日本",
