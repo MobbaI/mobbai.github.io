@@ -1,5 +1,23 @@
 window.movie = [
     {
+        _id: "61",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        category: "其他",
+        name: "黑暗荣耀 第二季",
+        premiere: "20230310",
+        imageUrl: "static/img/see/tv/heianrongyao2.webp"
+    },
+    {
+        _id: "60",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        category: "其他",
+        name: "黑暗荣耀",
+        premiere: "20221230",
+        imageUrl: "static/img/see/tv/heianrongyao.webp"
+    },
+    {
         _id: "59",
         filmOrTV: "电视剧",
         country: "韩国",
