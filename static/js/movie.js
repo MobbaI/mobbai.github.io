@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "63",
+        filmOrTV: "电影",
+        country: "韩国",
+        category: "其他",
+        name: "寄生虫",
+        premiere: "20190521",
+        imageUrl: "static/img/see/movie/jishengchong.webp"
+    },
+    {
         _id: "62",
         filmOrTV: "电视剧",
         country: "日本",
