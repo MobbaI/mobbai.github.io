@@ -4,7 +4,7 @@ window.blogs = [
         data: "20230707",
         title: "PySide6笔记",
         categories: "Python",
-        abstract: "Python GUI库PySide6相关的一些笔记，便于查找"
+        abstract: "PySide6相关的一些笔记，便于查找"
     },
     {
         id: "VueStaticJs",
