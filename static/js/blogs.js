@@ -1,5 +1,12 @@
 window.blogs = [
     {
+        id: "PythonGUINotes",
+        data: "20230707",
+        title: "Pyhton GUI笔记",
+        categories: "Python",
+        abstract: "Python GUI相关的一些笔记，便于查找"
+    },
+    {
         id: "VueStaticJs",
         data: "20220107",
         title: "Vue引入js文件而不被编译",
