@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "64",
+        filmOrTV: "电视剧",
+        country: "德国",
+        category: "悬疑",
+        name: "暗黑 第一季",
+        premiere: "20171201",
+        imageUrl: "static/img/see/tv/anheidiyiji.webp"
+    },
+    {
         _id: "63",
         filmOrTV: "电影",
         country: "韩国",
