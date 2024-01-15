@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "65",
+        filmOrTV: "电视剧",
+        country: "德国",
+        category: "悬疑",
+        name: "暗黑 第二季",
+        premiere: "20190621",
+        imageUrl: "static/img/see/tv/anheidierji.webp"
+    },
+    {
         _id: "64",
         filmOrTV: "电视剧",
         country: "德国",
