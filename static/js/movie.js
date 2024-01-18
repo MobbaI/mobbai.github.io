@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "66",
+        filmOrTV: "电视剧",
+        country: "德国",
+        category: "悬疑",
+        name: "暗黑 第三季",
+        premiere: "20200627",
+        imageUrl: "static/img/see/tv/anheidisanji.webp"
+    },
+    {
         _id: "65",
         filmOrTV: "电视剧",
         country: "德国",
