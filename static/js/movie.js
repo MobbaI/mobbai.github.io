@@ -6,7 +6,7 @@ window.movie = [
         category: "悬疑",
         name: "消失的爱人",
         premiere: "20140926",
-        imageUrl: "static/img/see/tv/anheidisanji.webp"
+        imageUrl: "static/img/see/movie/xiaoshideairen.webp"
     },
     {
         _id: "66",
