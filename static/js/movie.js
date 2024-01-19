@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "67",
+        filmOrTV: "电影",
+        country: "美国",
+        category: "悬疑",
+        name: "消失的爱人",
+        premiere: "20140926",
+        imageUrl: "static/img/see/tv/anheidisanji.webp"
+    },
+    {
         _id: "66",
         filmOrTV: "电视剧",
         country: "德国",
