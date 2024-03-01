@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "70",
+        filmOrTV: "电影",
+        country: "中国",
+        category: "其他",
+        name: "那些年，我们一起追的女孩",
+        premiere: "20110819",
+        imageUrl: "static/img/see/movie/naxienianwomenyiqizhuidenvhai.webp"
+    },
+    {
         _id: "69",
         filmOrTV: "电视剧",
         country: "韩国",
