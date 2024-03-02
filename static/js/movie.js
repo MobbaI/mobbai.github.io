@@ -1,5 +1,14 @@
 window.movie = [
     {
+        _id: "71",
+        filmOrTV: "电视剧",
+        country: "中国",
+        category: "其他",
+        name: "漫长的季节",
+        premiere: "20230422",
+        imageUrl: "static/img/see/tv/manchangdejijie.webp"
+    },
+    {
         _id: "70",
         filmOrTV: "电影",
         country: "中国",
