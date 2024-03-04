@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "73",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "奇巧计程车",
+        premiere: "20210406",
+        imageUrl: "static/img/see/tv/qiqiaojichengche.webp"
+    },
+    {
         _id: "72",
         filmOrTV: "电视剧",
         country: "韩国",
