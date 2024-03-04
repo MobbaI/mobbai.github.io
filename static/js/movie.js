@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "72",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        name: "就算敏感点也无妨",
+        premiere: "20180710",
+        imageUrl: "static/img/see/tv/jiusuanmingandianyewufang.webp"
+    },
+    {
         _id: "71",
         filmOrTV: "电视剧",
         country: "中国",
