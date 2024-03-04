@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "74",
+        filmOrTV: "电影",
+        country: "日本",
+        name: "我是大哥大 电影版",
+        premiere: "20200717",
+        imageUrl: "static/img/see/movie/woshidagedadianyingban.webp"
+    },
+    {
         _id: "73",
         filmOrTV: "电视剧",
         country: "日本",
