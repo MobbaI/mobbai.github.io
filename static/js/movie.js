@@ -1,19 +1,11 @@
 window.movie = [
     {
-        _id: "74",
+        _id: "73",
         filmOrTV: "电影",
         country: "日本",
         name: "我是大哥大 电影版",
         premiere: "20200717",
         imageUrl: "static/img/see/movie/woshidagedadianyingban.webp"
-    },
-    {
-        _id: "73",
-        filmOrTV: "电视剧",
-        country: "日本",
-        name: "奇巧计程车",
-        premiere: "20210406",
-        imageUrl: "static/img/see/tv/qiqiaojichengche.webp"
     },
     {
         _id: "72",
