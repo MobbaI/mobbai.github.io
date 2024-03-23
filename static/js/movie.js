@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "74",
+        filmOrTV: "电影",
+        country: "中国",
+        name: "流浪地球2",
+        premiere: "20230122",
+        imageUrl: "static/img/see/movie/liulangdiqiu2.webp"
+    },
+    {
         _id: "73",
         filmOrTV: "电影",
         country: "日本",
