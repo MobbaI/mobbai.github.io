@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "75",
+        filmOrTV: "电影",
+        country: "日本",
+        name: "祈祷落幕时",
+        premiere: "20180127",
+        imageUrl: "static/img/see/movie/qidaoluomushi.webp"
+    },
+    {
         _id: "74",
         filmOrTV: "电影",
         country: "中国",
