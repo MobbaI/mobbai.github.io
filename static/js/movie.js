@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "76",
+        filmOrTV: "电影",
+        country: "中国",
+        name: "年会不能停！",
+        premiere: "20231229",
+        imageUrl: "static/img/see/movie/nianhuibunengting.webp"
+    },
+    {
         _id: "75",
         filmOrTV: "电影",
         country: "日本",
