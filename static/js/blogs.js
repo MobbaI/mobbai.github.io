@@ -1,5 +1,19 @@
 window.blogs = [
     {
+        id: "Live",
+        data: "20240317",
+        title: "Live",
+        categories: "Y",
+        abstract: "🎵"
+    },
+    {
+        id: "To",
+        data: "20230511",
+        title: "To",
+        categories: "Y",
+        abstract: "🌈‍"
+    },
+    {
         id: "PySide6Notes",
         data: "20230707",
         title: "PySide6笔记",
