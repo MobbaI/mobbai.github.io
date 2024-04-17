@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "77",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        name: "好久没做",
+        premiere: "20240119",
+        imageUrl: "static/img/see/tv/haojiumeizuo.webp"
+    },
+    {
         _id: "76",
         filmOrTV: "电影",
         country: "中国",
