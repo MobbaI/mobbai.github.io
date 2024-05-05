@@ -131,7 +131,7 @@ window.travels = [
     {
         date: '20170426',
         title: '夜上华山',
-        cities: ['西安'],
+        cities: ['渭南', '西安'],
         days: [
             ['华山-夜'],
             ['华山-昼'],
