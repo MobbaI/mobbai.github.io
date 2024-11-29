@@ -1,5 +1,21 @@
 window.movie = [
     {
+        _id: "80",
+        filmOrTV: "电影",
+        country: "德国",
+        name: "海蒂",
+        premiere: "20151210",
+        imageUrl: "static/img/see/movie/haidi.webp"
+    },
+    {
+        _id: "79",
+        filmOrTV: "电影",
+        country: "韩国",
+        name: "首尔之春",
+        premiere: "20231122",
+        imageUrl: "static/img/see/movie/shouerzhichun.webp"
+    },
+    {
         _id: "78",
         filmOrTV: "电视剧",
         country: "西班牙",
