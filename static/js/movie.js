@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "81",
+        filmOrTV: "电影",
+        country: "印度",
+        name: "因果报应",
+        premiere: "20240614",
+        imageUrl: "static/img/see/movie/yinguobaoying.webp"
+    },
+    {
         _id: "80",
         filmOrTV: "电影",
         country: "德国",
