@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "83",
+        filmOrTV: "电影",
+        country: "中国",
+        name: "哪吒之魔童降世",
+        premiere: "20190713",
+        imageUrl: "static/img/see/movie/nezhazhimotongjiangshi.webp"
+    },
+    {
         _id: "82",
         filmOrTV: "电视剧",
         country: "美国",
