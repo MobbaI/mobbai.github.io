@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "85",
+        filmOrTV: "电影",
+        country: "中国",
+        name: "哪吒之魔童闹海",
+        premiere: "20250129",
+        imageUrl: "static/img/see/movie/nezhazhimotongnaohai.webp"
+    },
+    {
         _id: "84",
         filmOrTV: "电影",
         country: "中国",
