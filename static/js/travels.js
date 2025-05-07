@@ -1,5 +1,14 @@
 window.travels = [
     {
+        date: '20250430',
+        title: '贵州',
+        cities: ['衡山', '铜仁', '贵阳', '黔南', '安顺'],
+        days: [
+
+        ],
+        value: 0
+    },
+    {
         date: '20250412',
         title: '登天柱，得天助',
         cities: ['黄山', '安庆'],
