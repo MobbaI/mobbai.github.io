@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "86",
+        filmOrTV: "电影",
+        country: "中国",
+        name: "血观音",
+        premiere: "20171015",
+        imageUrl: "static/img/see/movie/xueguanyin.webp"
+    },
+    {
         _id: "85",
         filmOrTV: "电影",
         country: "中国",
