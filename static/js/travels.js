@@ -4,7 +4,7 @@ window.travels = [
         title: '回家顺便逛逛',
         cities: ['温州'],
         days: [
-            ['雁荡山'],
+            ['雁荡山', '台州站', '杭州东站'],
         ],
         value: 0
     },
