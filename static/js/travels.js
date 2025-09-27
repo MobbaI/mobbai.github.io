@@ -1,5 +1,14 @@
 window.travels = [
     {
+        date: '20250927',
+        title: '回家顺便逛逛',
+        cities: ['温州'],
+        days: [
+            ['雁荡山', '台州站', '杭州东站'],
+        ],
+        value: 0
+    },
+    {
         date: '20250918',
         title: '相约青岛',
         cities: ['青岛', '徐州'],
