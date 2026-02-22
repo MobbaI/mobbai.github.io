@@ -1,5 +1,53 @@
 window.movie = [
     {
+        _id: "92",
+        filmOrTV: "电影",
+        country: "日本",
+        name: "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+        premiere: "20250718",
+        imageUrl: "static/img/see/movie/guimiezhirenwuxianchengpian1.webp"
+    },
+    {
+        _id: "91",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "鬼灭之刃：柱训连篇",
+        premiere: "20240512",
+        imageUrl: "static/img/see/tv/guimiezhirenzhuxunlianpian.webp"
+    },
+    {
+        _id: "90",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "鬼灭之刃：锻刀村篇",
+        premiere: "20230409",
+        imageUrl: "static/img/see/tv/guimiezhirenduandaocunpian.webp"
+    },
+    {
+        _id: "89",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "鬼灭之刃：游郭篇",
+        premiere: "20211205",
+        imageUrl: "static/img/see/tv/guimiezhirenyouguopian.webp"
+    },
+    {
+        _id: "88",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "鬼灭之刃：无限列车篇",
+        premiere: "20211010",
+        imageUrl: "static/img/see/tv/guimiezhirenwuxianliechepian.webp"
+    },
+    {
+        _id: "87",
+        filmOrTV: "电视剧",
+        country: "日本",
+        name: "鬼灭之刃",
+        premiere: "20190406",
+        imageUrl: "static/img/see/tv/guimiezhiren.webp"
+    },
+    {
         _id: "86",
         filmOrTV: "电影",
         country: "中国",
