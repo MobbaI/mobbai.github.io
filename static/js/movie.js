@@ -1,5 +1,13 @@
 window.movie = [
     {
+        _id: "93",
+        filmOrTV: "电视剧",
+        country: "韩国",
+        name: "铁拳教育",
+        premiere: "20260605",
+        imageUrl: "static/img/see/tv/tiequanjiaoyu.webp"
+    },
+    {
         _id: "92",
         filmOrTV: "电影",
         country: "日本",
